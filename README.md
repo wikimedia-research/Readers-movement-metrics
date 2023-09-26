@@ -1,0 +1,1 @@
+This repository has been merged into [movement-metrics](https://github.com/wikimedia-research/movement-metrics/).
